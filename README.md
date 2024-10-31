@@ -3,8 +3,8 @@ This project uses a Decision Tree Classifier to predict music genre preferences 
 # Dataset
 The dataset includes the following columns:
 
-age: Age of the individual
-gender: Gender (0 for female, 1 for male)
+age: Age of the individual,
+gender: Gender (0 for female, 1 for male),
 genre: Preferred music genre (HipHop, Jazz, Classical, etc.)
 
 # Result
